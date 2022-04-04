@@ -1,0 +1,3 @@
+table:
+  name: relationship_types
+  schema: public

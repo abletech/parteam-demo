@@ -1,0 +1,7 @@
+- "!include public_parties.yaml"
+- "!include public_party_types.yaml"
+- "!include public_relationship_types.yaml"
+- "!include public_relationships.yaml"
+- "!include public_resources.yaml"
+- "!include public_subjects.yaml"
+- "!include public_teams.yaml"
