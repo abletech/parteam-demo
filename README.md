@@ -17,7 +17,7 @@ docker-compose up
 
 ## Following along
 
-You can follow the [corresponding blog article](#TODO) to get the metadata/migrations/seeds set up yourself. Alternatively, see the below section to apply the included migrations and metadata.
+You can follow the [corresponding blog article](https://abletech.nz/article/building-a-party-teams-service-in-less-than-a-day-using-hasura/) to get the metadata/migrations/seeds set up yourself. Alternatively, see the below section to apply the included migrations and metadata.
 
 ## Apply migrations and metadata
 
